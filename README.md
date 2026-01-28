@@ -53,4 +53,4 @@ In the open ground zone, the model correctly isolated the single critical threat
 * **Standard Triage:** Vague distress calls and low battery reports were ranked lower without being deleted.
 
 ## 6. Conclusion
-The ELECTRE III model successfully balances immediate life threats with strategic geographic risks. While occasional false positives occur—such as flagging the Tokyo Skytree for swaying—the system effectively filters information overload to protect the most vulnerable sectors during the first critical minutes of a disaster.
+The ELECTRE III model successfully balances immediate life threats with strategic geographic risks. While occasional false positives occur, such as flagging the Tokyo Skytree for swaying, the system effectively filters information overload to protect the most vulnerable sectors during the first critical minutes of a disaster.
